@@ -1,0 +1,32 @@
+{
+  "name": "goit-nodejs-hw-cli",
+  "version": "1.0.0",
+  "description": "nodejs-cli-application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solomon-IT-Dev/goit-nodeJS-hw-cli.git"
+  },
+  "keywords": [
+    "nidejs",
+    "cli"
+  ],
+  "author": "Solomon-IT-Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Solomon-IT-Dev/goit-nodeJS-hw-cli/issues"
+  },
+  "homepage": "https://github.com/Solomon-IT-Dev/goit-nodeJS-hw-cli#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "commander": "^9.2.0",
+    "uuid": "^8.3.2"
+  }
+}
