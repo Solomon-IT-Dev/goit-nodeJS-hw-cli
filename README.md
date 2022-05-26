@@ -25,5 +25,5 @@ Result Link: https://monosnap.com/file/yWnUwOZt9Hi3kPAMpDQDIZM3JN2u12
 
 ## Удаляем контакт
 
-Command: node index.js --action remove --id=3
+Command: node index.js --action remove --id 3
 Result Link: https://monosnap.com/file/jGClK2hNxJ2CHQOWGw1bUjojWbOTJA
